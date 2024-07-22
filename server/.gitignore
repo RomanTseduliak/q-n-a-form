@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Angular specific
+/dist
+/out-tsc
+/tmp
+
+# Compiled JavaScript
+*.js
+*.jsx
+*.js.map
+
+# Compiled TypeScript
+*.ts
+*.d.ts
+*.ts.map
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Package directories
+jspm_packages/
